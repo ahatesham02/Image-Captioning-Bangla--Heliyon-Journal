@@ -20,6 +20,13 @@ Image captioning, the process of generating natural language descriptions based 
 - This work demonstrates the superiority of incorporating ResNet-50 and a context-aware attention network over the conventional encoder-decoder architecture in Bangla image captioning. The proposed approach outperforms existing methods by leveraging contextual information and achieving higher accuracy in generating captions.
 - Through extensive experiments on three benchmark datasets, we analyze the adaptiveness of image captioning outcomes across domains, showcasing the potential of cross-domain transfer for generating accurate out-of-domain image captions.
 
+### Methodology
+
+<p align="center">
+    <a href=""><img src="Images/align-attend.png" width="70%"></a> <br>
+    The method proposed in Align before Attend Paper.
+</p>
+
 ### Citation
 If you find our works useful for your research and applications, please cite using this BibTeX:
 ```bibtex
