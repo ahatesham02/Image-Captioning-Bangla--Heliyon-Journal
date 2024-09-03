@@ -23,8 +23,8 @@ Image captioning, the process of generating natural language descriptions based 
 ### Methodology
 
 <p align="center">
-    <a href=""><img src="Images/align-attend.png" width="70%"></a> <br>
-    The method proposed in Align before Attend Paper.
+    <a href="https://github.com/ahatesham02/Image-Captioning-Bangla--Heliyon-Journal/blob/main/Images/methodology.drawio.png"><img src="Images/methodology.drawio.png" width="70%"></a> <br>
+   An overview of the proposed encoder-decoder architecture for image captioning, where the upper block depicts image features (V) extraction by pre-trained ResNet-50 and the bottom block represents the decoder architecture incorporated with context-aware attention and bidirectional GRU.
 </p>
 
 ### Citation
